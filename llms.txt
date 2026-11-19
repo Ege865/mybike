@@ -1,0 +1,8 @@
+# My Bike
+
+> My Bike, Bursa’da bisiklet tamir ve bakım atölyesi: süspansiyon, fren, vites ve genel bakım; parça ve aksesuar.
+
+## Pages
+- [Hizmetler](https://ege865.github.io/mybike/mybike#services)
+- [Atölye](https://ege865.github.io/mybike/mybike#about)
+- [Sorular](https://ege865.github.io/mybike/mybike#faq)
